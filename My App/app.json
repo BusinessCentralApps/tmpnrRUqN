@@ -1,31 +1,32 @@
 {
-  "id": "aab6930b-9431-472a-ae29-f790025f006a",
-  "name": "My App",
-  "publisher": "My Publisher",
-  "version": "1.0.0.0",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
-  "logo": "",
-  "dependencies": [],
+  "help": "https://github.com/BusinessCentralApps/helloworld.appsource",
+  "resourceExposurePolicy": {
+    "includeSourceInSymbolFile": false,
+    "allowDebugging": true,
+    "allowDownloadingSource": false
+  },
   "screenshots": [],
+  "privacyStatement": "https://github.com/BusinessCentralApps/helloworld.appsource",
+  "logo": "helloworld256x240.png",
+  "url": "https://github.com/BusinessCentralApps/helloworld.appsource",
+  "publisher": "My Publisher",
   "platform": "1.0.0.0",
+  "version": "1.0.0.0",
+  "dependencies": [],
+  "EULA": "https://github.com/BusinessCentralApps/helloworld.appsource",
   "application": "22.0.0.0",
+  "description": "Hello World sample app for AppSource",
+  "features": [
+    "TranslationFile"
+  ],
+  "brief": "Hello World for AppSource",
+  "id": "aab6930b-9431-472a-ae29-f790025f006a",
+  "contextSensitiveHelpUrl": "https://github.com/BusinessCentralApps/helloworld.appsource",
   "idRanges": [
     {
       "from": 75055000,
       "to": 75056000
     }
   ],
-  "features": [
-    "NoImplicitWith"
-  ],
-  "resourceExposurePolicy": {
-    "allowDebugging": true,
-    "allowDownloadingSource": false,
-    "includeSourceInSymbolFile": false
-  }
+  "name": "My App"
 }
