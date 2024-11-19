@@ -1,0 +1,9 @@
+{
+  "runs-on": "ubuntu-latest",
+  "shell": "pwsh",
+  "doNotPublishApps": false,
+  "type": "AppSource App",
+  "templateUrl": "https://github.com/businesscentralapps/tmpfOabYt-AppSource@main",
+  "MicrosoftTelemetryConnectionString": "",
+  "useCompilerFolder": false
+}
